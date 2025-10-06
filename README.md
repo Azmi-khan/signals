@@ -1,11 +1,11 @@
-# 🎵 Digital Signal Processing –
+#  Digital Signal Processing –
 
 This repository contains my complete solutions for **Lab 4** of the *Digital Signal Processing* course.  
 It includes both the **original lab questions** and the **Python implementations** that analyze and visualize various signal behaviors using **NumPy**, **SciPy**, and **Matplotlib**.
 
 ---
 
-## 📘 Overview
+##  Overview
 
 | Section | Topic | Lab Question | Python Code |
 |----------|--------|--------------|--------------|
@@ -20,7 +20,7 @@ Each section explores a fundamental signal-processing concept:
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 
 - Discrete-time sinusoidal signal generation  
 - Fourier series representation of periodic signals  
@@ -30,7 +30,7 @@ Each section explores a fundamental signal-processing concept:
 
 ---
 
-## 🧩 Folder Structure
+##  Folder Structure
 
 ```
 signal-processing-lab4/
@@ -51,20 +51,20 @@ signal-processing-lab4/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 ```bash
 git clone https://github.com/yourusername/signal-processing-lab4.git
 cd signal-processing-lab4
 ```
 
-### 2️⃣ Install dependencies
+###  Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run individual lab parts
+###  Run individual lab parts
 ```bash
 python src/lab_4_pt1.py
 python src/lab_4_pt2.py
@@ -75,7 +75,7 @@ Each script displays the respective signal plots and frequency analyses using Ma
 
 ---
 
-## 📊 Example Topics Illustrated
+##  Example Topics Illustrated
 
 - **Stem plots** for sampled sine waves  
 - **Fourier synthesis** of sawtooth signals up to the 5th harmonic  
@@ -84,7 +84,7 @@ Each script displays the respective signal plots and frequency analyses using Ma
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Name:** *Azmi Rehman Khan*  
 **Course:** Electric signal processing  
@@ -93,7 +93,7 @@ Each script displays the respective signal plots and frequency analyses using Ma
 
 ---
 
-## 🏁 License
+##  License
 
 This project is intended for educational and reference purposes.  
 Feel free to use and modify the code for your own learning or lab reports.
